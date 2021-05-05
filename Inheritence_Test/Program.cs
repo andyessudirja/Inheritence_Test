@@ -1,4 +1,5 @@
-﻿using System;
+﻿//i change a bit
+using System;
 
 namespace Inheritence_Test
 {
